@@ -28,6 +28,7 @@ The repository is organized into folders corresponding to different Microsoft 36
   - **Security and Compliance**: Scripts for implementing and managing security and compliance policies.
   - **SharePoint**: PowerShell tools for SharePoint Online site administration.
   - **OneDrive**: Scripts for managing OneDrive for Business settings.
+  - **PowerShell Setup**: Scripts for the initial setup of PowerShell for M365 Administration.
     
 -**Graph Scripts**
   - **Exchange**: PowerShell scripts for managing Exchange Online settings and configurations.
