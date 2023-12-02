@@ -2,6 +2,8 @@
 
 Welcome to the M365 Administration Scripts Repository! This repository contains a collection of PowerShell scripts designed to assist Microsoft 365 administrators in managing various aspects of their environment. Whether you're working with Exchange, SharePoint, OneDrive, Teams, Security and Compliance, or other M365 services, you'll find useful scripts here to streamline your administrative tasks.
 
+For more useful info on M365 Administration, visit https://TheM365Admin.com
+
 ## Table of Contents
 
 - [Introduction](#introduction)
